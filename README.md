@@ -9,7 +9,7 @@ This project is based on the Memotion Analysis problem in SemEval-2019 Task 8 ht
 "data" folder contains the csv files: 
 
   labels.csv - train dataset downloaded from https://www.kaggle.com/williamscott701/memotion-dataset-7k 
-  2000_testdata.csv - test dataset downloaded from https://competitions.codalab.org/competitions/20629#learn_the_details-overview
+  2000_testdata.csv - test dataset downloaded from https://competitions.codalab.org/competitions/20629#learn_the_details-overview 
   Test_Actual_Final.csv - contains the ground truth value of the emotions - used in testing for calculating accuracy
 
 "code" folder contains the notebook files
