@@ -38,5 +38,8 @@ Steps to run the code:
 (The codes generates other csv files with corresponding output while running, which will be used further)
 
 
+Results:
+
+CNN outperformed both the tasks compared to the baseline results considering Macro F1 as the criteria for evaluating performance.
 
 
