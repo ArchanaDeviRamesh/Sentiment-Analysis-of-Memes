@@ -11,6 +11,7 @@ For example, consider the meme given in following figure. The proposed system wi
 
 ![img1](https://user-images.githubusercontent.com/105897803/182281147-2f1182e1-2ceb-4870-a789-2de8f221b134.png)
 
+# Libraries used: pandas, numpy, matplotlib, sklearn, nltk, gensim, torch, tensorflow, transformers
 
 # Repository folders
 
